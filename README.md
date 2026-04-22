@@ -52,3 +52,6 @@ python library_management.py
 
 This is a beginner-friendly project focused on logic building and practical implementation.
 
+## Author
+Twinkle
+
